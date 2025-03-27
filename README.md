@@ -1,7 +1,9 @@
 # HCMV-specific-humoral-immune-responses-elicited-by-prefusion-gB-vaccination-in-mice
 
 Github repository to accompany the manuscript
+
 **A human cytomegalovirus prefusion-like glycoprotein B  subunit vaccine elicits similar humoral immunity to that of postfusion gB in mice**
+
 Running title: Immunogenicity of a prefusion-like gB subunit vaccine in mice
 Krithika P. Karthigeyan1, Megan Connors1, Christian R. Binuya1, Mackensie Gross1, Adelaide S. Fuller1, Chelsea M. Crooks1, Hsuan-Yuan Wang1, Madeline R. Sponholtz2, Patrick O. Byrne2, Savannah Herbek1, Caroline Andy3, Linda M. Gerber3, John D. Campbell4, Caitlin A. Williams1, Elizabeth Mitchell1, Lara van der Maas1, Itzayana Miller1, Dong Yu4, Matthew J. Bottomley4, Jason S. McLellan2, Sallie R. Permar1*
 1 Department of Pediatrics, Weill Cornell Medicine, New York, NY
